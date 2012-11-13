@@ -3,12 +3,13 @@
   <groupId>com.aphelia</groupId>
   <artifactId>amqp-client_2.9.2</artifactId>
   <versioning>
-    <release>1.0-RC3</release>
+    <release>1.0</release>
     <versions>
       <version>1.0-RC1</version>
       <version>1.0-RC2</version>
       <version>1.0-RC3</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20121024143333</lastUpdated>
+    <lastUpdated>20121113115159</lastUpdated>
   </versioning>
 </metadata>
