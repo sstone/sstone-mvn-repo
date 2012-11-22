@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.aphelia</groupId>
+  <artifactId>akka-amqp-proxies_2.10.0-RC2</artifactId>
+  <version>1.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20121122.171047</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20121122171047</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.1-20121122.171047-1</value>
+        <updated>20121122171047</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.1-20121122.171047-1</value>
+        <updated>20121122171047</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
